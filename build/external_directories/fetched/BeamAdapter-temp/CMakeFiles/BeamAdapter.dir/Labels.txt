@@ -1,0 +1,14 @@
+# Target labels
+ BeamAdapter
+# Source files and their labels
+/home/defrost/sofa2/build/external_directories/fetched/BeamAdapter-temp/CMakeFiles/BeamAdapter
+/home/defrost/sofa2/build/external_directories/fetched/BeamAdapter-temp/CMakeFiles/BeamAdapter.rule
+/home/defrost/sofa2/build/external_directories/fetched/BeamAdapter-temp/CMakeFiles/BeamAdapter-complete.rule
+/home/defrost/sofa2/build/external_directories/fetched/BeamAdapter-temp/BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-build.rule
+/home/defrost/sofa2/build/external_directories/fetched/BeamAdapter-temp/BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-configure.rule
+/home/defrost/sofa2/build/external_directories/fetched/BeamAdapter-temp/BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-download.rule
+/home/defrost/sofa2/build/external_directories/fetched/BeamAdapter-temp/BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-install.rule
+/home/defrost/sofa2/build/external_directories/fetched/BeamAdapter-temp/BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-mkdir.rule
+/home/defrost/sofa2/build/external_directories/fetched/BeamAdapter-temp/BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-patch.rule
+/home/defrost/sofa2/build/external_directories/fetched/BeamAdapter-temp/BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-test.rule
+/home/defrost/sofa2/build/external_directories/fetched/BeamAdapter-temp/BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-update.rule

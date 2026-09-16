@@ -1,0 +1,14 @@
+# Target labels
+ cxxopts
+# Source files and their labels
+/home/defrost/sofa2/build/external_directories/fetched/cxxopts-temp/CMakeFiles/cxxopts
+/home/defrost/sofa2/build/external_directories/fetched/cxxopts-temp/CMakeFiles/cxxopts.rule
+/home/defrost/sofa2/build/external_directories/fetched/cxxopts-temp/CMakeFiles/cxxopts-complete.rule
+/home/defrost/sofa2/build/external_directories/fetched/cxxopts-temp/cxxopts-prefix/src/cxxopts-stamp/cxxopts-build.rule
+/home/defrost/sofa2/build/external_directories/fetched/cxxopts-temp/cxxopts-prefix/src/cxxopts-stamp/cxxopts-configure.rule
+/home/defrost/sofa2/build/external_directories/fetched/cxxopts-temp/cxxopts-prefix/src/cxxopts-stamp/cxxopts-download.rule
+/home/defrost/sofa2/build/external_directories/fetched/cxxopts-temp/cxxopts-prefix/src/cxxopts-stamp/cxxopts-install.rule
+/home/defrost/sofa2/build/external_directories/fetched/cxxopts-temp/cxxopts-prefix/src/cxxopts-stamp/cxxopts-mkdir.rule
+/home/defrost/sofa2/build/external_directories/fetched/cxxopts-temp/cxxopts-prefix/src/cxxopts-stamp/cxxopts-patch.rule
+/home/defrost/sofa2/build/external_directories/fetched/cxxopts-temp/cxxopts-prefix/src/cxxopts-stamp/cxxopts-test.rule
+/home/defrost/sofa2/build/external_directories/fetched/cxxopts-temp/cxxopts-prefix/src/cxxopts-stamp/cxxopts-update.rule

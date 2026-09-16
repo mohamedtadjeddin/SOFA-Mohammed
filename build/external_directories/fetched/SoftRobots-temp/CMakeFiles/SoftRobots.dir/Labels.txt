@@ -1,0 +1,14 @@
+# Target labels
+ SoftRobots
+# Source files and their labels
+/home/defrost/sofa2/build/external_directories/fetched/SoftRobots-temp/CMakeFiles/SoftRobots
+/home/defrost/sofa2/build/external_directories/fetched/SoftRobots-temp/CMakeFiles/SoftRobots.rule
+/home/defrost/sofa2/build/external_directories/fetched/SoftRobots-temp/CMakeFiles/SoftRobots-complete.rule
+/home/defrost/sofa2/build/external_directories/fetched/SoftRobots-temp/SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-build.rule
+/home/defrost/sofa2/build/external_directories/fetched/SoftRobots-temp/SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-configure.rule
+/home/defrost/sofa2/build/external_directories/fetched/SoftRobots-temp/SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-download.rule
+/home/defrost/sofa2/build/external_directories/fetched/SoftRobots-temp/SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-install.rule
+/home/defrost/sofa2/build/external_directories/fetched/SoftRobots-temp/SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-mkdir.rule
+/home/defrost/sofa2/build/external_directories/fetched/SoftRobots-temp/SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-patch.rule
+/home/defrost/sofa2/build/external_directories/fetched/SoftRobots-temp/SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-test.rule
+/home/defrost/sofa2/build/external_directories/fetched/SoftRobots-temp/SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-update.rule

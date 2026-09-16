@@ -1,0 +1,48 @@
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- The C compiler identification is Clang 20.1.2
+-- The CXX compiler identification is Clang 20.1.2
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/clang-20 - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/clang++-20 - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (0.7s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp
+[1/9] Creating directories for 'Cosserat'
+[2/9] Performing download step (git clone) for 'Cosserat'
+Cloning into 'Cosserat'...
+warning: redirecting to https://github.com/SofaDefrost/Cosserat.git/
+Switched to a new branch 'v25.12'
+branch 'v25.12' set up to track 'origin/v25.12'.
+[3/9] Performing update step for 'Cosserat'
+warning: redirecting to https://github.com/SofaDefrost/Cosserat.git/
+[4/9] No patch step for 'Cosserat'
+[5/9] No configure step for 'Cosserat'
+[6/9] No build step for 'Cosserat'
+[7/9] No install step for 'Cosserat'
+[8/9] No test step for 'Cosserat'
+[9/9] Completed 'Cosserat'

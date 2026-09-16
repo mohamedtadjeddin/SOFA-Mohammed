@@ -1,0 +1,2700 @@
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- The C compiler identification is Clang 20.1.2
+-- The CXX compiler identification is Clang 20.1.2
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/clang-20 - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/clang++-20 - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (1.5s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/9] Creating directories for 'tight_inclusion'
+[2/9] Performing download step (git clone) for 'tight_inclusion'
+Cloning into 'tight_inclusion'...
+Switched to a new branch 'v1.0.6-export-target'
+branch 'v1.0.6-export-target' set up to track 'origin/v1.0.6-export-target'.
+[3/9] Performing update step for 'tight_inclusion'
+[4/9] No patch step for 'tight_inclusion'
+[5/9] No configure step for 'tight_inclusion'
+[6/9] No build step for 'tight_inclusion'
+[7/9] No install step for 'tight_inclusion'
+[8/9] No test step for 'tight_inclusion'
+[9/9] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+FAILED: tight_inclusion-prefix/src/tight_inclusion-stamp/tight_inclusion-update /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/src/tight_inclusion-stamp/tight_inclusion-update 
+cd /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion && /usr/bin/cmake -Dcan_fetch=YES -P /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake
+fatal: unable to access 'https://github.com/sofa-framework/Tight-Inclusion/': SSL: certificate subject name (portail.lille.inria.fr) does not match target host name 'github.com'
+CMake Error at /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake:8 (execute_process):
+  execute_process last command failed
+Call Stack (most recent call first):
+  /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake:76 (do_fetch)
+
+
+ninja: build stopped: subcommand failed.
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+FAILED: tight_inclusion-prefix/src/tight_inclusion-stamp/tight_inclusion-update /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/src/tight_inclusion-stamp/tight_inclusion-update 
+cd /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion && /usr/bin/cmake -Dcan_fetch=YES -P /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake
+fatal: unable to access 'https://github.com/sofa-framework/Tight-Inclusion/': SSL: certificate subject name (portail.lille.inria.fr) does not match target host name 'github.com'
+CMake Error at /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake:8 (execute_process):
+  execute_process last command failed
+Call Stack (most recent call first):
+  /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake:76 (do_fetch)
+
+
+ninja: build stopped: subcommand failed.
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+FAILED: tight_inclusion-prefix/src/tight_inclusion-stamp/tight_inclusion-update /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/src/tight_inclusion-stamp/tight_inclusion-update 
+cd /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion && /usr/bin/cmake -Dcan_fetch=YES -P /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake
+fatal: unable to access 'https://github.com/sofa-framework/Tight-Inclusion/': SSL: certificate subject name (portail.lille.inria.fr) does not match target host name 'github.com'
+CMake Error at /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake:8 (execute_process):
+  execute_process last command failed
+Call Stack (most recent call first):
+  /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake:76 (do_fetch)
+
+
+ninja: build stopped: subcommand failed.
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+FAILED: tight_inclusion-prefix/src/tight_inclusion-stamp/tight_inclusion-update /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/src/tight_inclusion-stamp/tight_inclusion-update 
+cd /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion && /usr/bin/cmake -Dcan_fetch=YES -P /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake
+fatal: unable to access 'https://github.com/sofa-framework/Tight-Inclusion/': SSL: certificate subject name (portail.lille.inria.fr) does not match target host name 'github.com'
+CMake Error at /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake:8 (execute_process):
+  execute_process last command failed
+Call Stack (most recent call first):
+  /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake:76 (do_fetch)
+
+
+ninja: build stopped: subcommand failed.
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+FAILED: tight_inclusion-prefix/src/tight_inclusion-stamp/tight_inclusion-update /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/src/tight_inclusion-stamp/tight_inclusion-update 
+cd /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion && /usr/bin/cmake -Dcan_fetch=YES -P /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake
+fatal: unable to access 'https://github.com/sofa-framework/Tight-Inclusion/': SSL: certificate subject name (portail.lille.inria.fr) does not match target host name 'github.com'
+CMake Error at /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake:8 (execute_process):
+  execute_process last command failed
+Call Stack (most recent call first):
+  /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake:76 (do_fetch)
+
+
+ninja: build stopped: subcommand failed.
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+FAILED: tight_inclusion-prefix/src/tight_inclusion-stamp/tight_inclusion-update /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/src/tight_inclusion-stamp/tight_inclusion-update 
+cd /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion && /usr/bin/cmake -Dcan_fetch=YES -P /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake
+fatal: unable to access 'https://github.com/sofa-framework/Tight-Inclusion/': SSL: certificate subject name (portail.lille.inria.fr) does not match target host name 'github.com'
+CMake Error at /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake:8 (execute_process):
+  execute_process last command failed
+Call Stack (most recent call first):
+  /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake:76 (do_fetch)
+
+
+ninja: build stopped: subcommand failed.
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+FAILED: tight_inclusion-prefix/src/tight_inclusion-stamp/tight_inclusion-update /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/src/tight_inclusion-stamp/tight_inclusion-update 
+cd /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion && /usr/bin/cmake -Dcan_fetch=YES -P /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake
+fatal: unable to access 'https://github.com/sofa-framework/Tight-Inclusion/': SSL: certificate subject name (portail.lille.inria.fr) does not match target host name 'github.com'
+CMake Error at /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake:8 (execute_process):
+  execute_process last command failed
+Call Stack (most recent call first):
+  /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake:76 (do_fetch)
+
+
+ninja: build stopped: subcommand failed.
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+FAILED: tight_inclusion-prefix/src/tight_inclusion-stamp/tight_inclusion-update /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/src/tight_inclusion-stamp/tight_inclusion-update 
+cd /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion && /usr/bin/cmake -Dcan_fetch=YES -P /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake
+fatal: unable to access 'https://github.com/sofa-framework/Tight-Inclusion/': SSL: certificate subject name (portail.lille.inria.fr) does not match target host name 'github.com'
+CMake Error at /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake:8 (execute_process):
+  execute_process last command failed
+Call Stack (most recent call first):
+  /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake:76 (do_fetch)
+
+
+ninja: build stopped: subcommand failed.
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+FAILED: tight_inclusion-prefix/src/tight_inclusion-stamp/tight_inclusion-update /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/src/tight_inclusion-stamp/tight_inclusion-update 
+cd /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion && /usr/bin/cmake -Dcan_fetch=YES -P /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake
+fatal: unable to access 'https://github.com/sofa-framework/Tight-Inclusion/': SSL: certificate subject name (portail.lille.inria.fr) does not match target host name 'github.com'
+CMake Error at /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake:8 (execute_process):
+  execute_process last command failed
+Call Stack (most recent call first):
+  /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake:76 (do_fetch)
+
+
+ninja: build stopped: subcommand failed.
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+FAILED: tight_inclusion-prefix/src/tight_inclusion-stamp/tight_inclusion-update /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/src/tight_inclusion-stamp/tight_inclusion-update 
+cd /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion && /usr/bin/cmake -Dcan_fetch=YES -P /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake
+fatal: unable to access 'https://github.com/sofa-framework/Tight-Inclusion/': SSL: certificate subject name (portail.lille.inria.fr) does not match target host name 'github.com'
+CMake Error at /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake:8 (execute_process):
+  execute_process last command failed
+Call Stack (most recent call first):
+  /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake:76 (do_fetch)
+
+
+ninja: build stopped: subcommand failed.
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+FAILED: tight_inclusion-prefix/src/tight_inclusion-stamp/tight_inclusion-update /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/src/tight_inclusion-stamp/tight_inclusion-update 
+cd /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion && /usr/bin/cmake -Dcan_fetch=YES -P /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake
+fatal: unable to access 'https://github.com/sofa-framework/Tight-Inclusion/': SSL: certificate subject name (portail.lille.inria.fr) does not match target host name 'github.com'
+CMake Error at /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake:8 (execute_process):
+  execute_process last command failed
+Call Stack (most recent call first):
+  /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake:76 (do_fetch)
+
+
+ninja: build stopped: subcommand failed.
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp
+[1/7] Performing update step for 'tight_inclusion'
+[2/7] No patch step for 'tight_inclusion'
+[3/7] No configure step for 'tight_inclusion'
+[4/7] No build step for 'tight_inclusion'
+[5/7] No install step for 'tight_inclusion'
+[6/7] No test step for 'tight_inclusion'
+[7/7] Completed 'tight_inclusion'

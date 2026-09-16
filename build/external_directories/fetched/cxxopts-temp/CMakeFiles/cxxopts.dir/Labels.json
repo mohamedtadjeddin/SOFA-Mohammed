@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/cxxopts-temp/CMakeFiles/cxxopts"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/cxxopts-temp/CMakeFiles/cxxopts.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/cxxopts-temp/CMakeFiles/cxxopts-complete.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/cxxopts-temp/cxxopts-prefix/src/cxxopts-stamp/cxxopts-build.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/cxxopts-temp/cxxopts-prefix/src/cxxopts-stamp/cxxopts-configure.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/cxxopts-temp/cxxopts-prefix/src/cxxopts-stamp/cxxopts-download.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/cxxopts-temp/cxxopts-prefix/src/cxxopts-stamp/cxxopts-install.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/cxxopts-temp/cxxopts-prefix/src/cxxopts-stamp/cxxopts-mkdir.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/cxxopts-temp/cxxopts-prefix/src/cxxopts-stamp/cxxopts-patch.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/cxxopts-temp/cxxopts-prefix/src/cxxopts-stamp/cxxopts-test.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/cxxopts-temp/cxxopts-prefix/src/cxxopts-stamp/cxxopts-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"cxxopts"
+		],
+		"name" : "cxxopts"
+	}
+}

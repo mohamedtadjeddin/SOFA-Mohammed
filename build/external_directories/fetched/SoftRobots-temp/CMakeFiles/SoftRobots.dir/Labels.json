@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SoftRobots-temp/CMakeFiles/SoftRobots"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SoftRobots-temp/CMakeFiles/SoftRobots.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SoftRobots-temp/CMakeFiles/SoftRobots-complete.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SoftRobots-temp/SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-build.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SoftRobots-temp/SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-configure.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SoftRobots-temp/SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-download.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SoftRobots-temp/SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-install.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SoftRobots-temp/SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-mkdir.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SoftRobots-temp/SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-patch.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SoftRobots-temp/SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-test.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SoftRobots-temp/SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"SoftRobots"
+		],
+		"name" : "SoftRobots"
+	}
+}

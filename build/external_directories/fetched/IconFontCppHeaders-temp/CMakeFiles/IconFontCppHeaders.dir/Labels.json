@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/IconFontCppHeaders-temp/CMakeFiles/IconFontCppHeaders"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/IconFontCppHeaders-temp/CMakeFiles/IconFontCppHeaders.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/IconFontCppHeaders-temp/CMakeFiles/IconFontCppHeaders-complete.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/IconFontCppHeaders-temp/IconFontCppHeaders-prefix/src/IconFontCppHeaders-stamp/IconFontCppHeaders-build.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/IconFontCppHeaders-temp/IconFontCppHeaders-prefix/src/IconFontCppHeaders-stamp/IconFontCppHeaders-configure.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/IconFontCppHeaders-temp/IconFontCppHeaders-prefix/src/IconFontCppHeaders-stamp/IconFontCppHeaders-download.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/IconFontCppHeaders-temp/IconFontCppHeaders-prefix/src/IconFontCppHeaders-stamp/IconFontCppHeaders-install.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/IconFontCppHeaders-temp/IconFontCppHeaders-prefix/src/IconFontCppHeaders-stamp/IconFontCppHeaders-mkdir.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/IconFontCppHeaders-temp/IconFontCppHeaders-prefix/src/IconFontCppHeaders-stamp/IconFontCppHeaders-patch.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/IconFontCppHeaders-temp/IconFontCppHeaders-prefix/src/IconFontCppHeaders-stamp/IconFontCppHeaders-test.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/IconFontCppHeaders-temp/IconFontCppHeaders-prefix/src/IconFontCppHeaders-stamp/IconFontCppHeaders-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"IconFontCppHeaders"
+		],
+		"name" : "IconFontCppHeaders"
+	}
+}

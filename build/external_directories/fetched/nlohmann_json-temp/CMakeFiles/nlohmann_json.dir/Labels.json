@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/nlohmann_json-temp/CMakeFiles/nlohmann_json"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/nlohmann_json-temp/CMakeFiles/nlohmann_json.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/nlohmann_json-temp/CMakeFiles/nlohmann_json-complete.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/nlohmann_json-temp/nlohmann_json-prefix/src/nlohmann_json-stamp/nlohmann_json-build.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/nlohmann_json-temp/nlohmann_json-prefix/src/nlohmann_json-stamp/nlohmann_json-configure.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/nlohmann_json-temp/nlohmann_json-prefix/src/nlohmann_json-stamp/nlohmann_json-download.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/nlohmann_json-temp/nlohmann_json-prefix/src/nlohmann_json-stamp/nlohmann_json-install.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/nlohmann_json-temp/nlohmann_json-prefix/src/nlohmann_json-stamp/nlohmann_json-mkdir.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/nlohmann_json-temp/nlohmann_json-prefix/src/nlohmann_json-stamp/nlohmann_json-patch.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/nlohmann_json-temp/nlohmann_json-prefix/src/nlohmann_json-stamp/nlohmann_json-test.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/nlohmann_json-temp/nlohmann_json-prefix/src/nlohmann_json-stamp/nlohmann_json-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"nlohmann_json"
+		],
+		"name" : "nlohmann_json"
+	}
+}

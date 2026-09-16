@@ -1,0 +1,14 @@
+# Target labels
+ nfd
+# Source files and their labels
+/home/defrost/sofa2/build/external_directories/fetched/nfd-temp/CMakeFiles/nfd
+/home/defrost/sofa2/build/external_directories/fetched/nfd-temp/CMakeFiles/nfd.rule
+/home/defrost/sofa2/build/external_directories/fetched/nfd-temp/CMakeFiles/nfd-complete.rule
+/home/defrost/sofa2/build/external_directories/fetched/nfd-temp/nfd-prefix/src/nfd-stamp/nfd-build.rule
+/home/defrost/sofa2/build/external_directories/fetched/nfd-temp/nfd-prefix/src/nfd-stamp/nfd-configure.rule
+/home/defrost/sofa2/build/external_directories/fetched/nfd-temp/nfd-prefix/src/nfd-stamp/nfd-download.rule
+/home/defrost/sofa2/build/external_directories/fetched/nfd-temp/nfd-prefix/src/nfd-stamp/nfd-install.rule
+/home/defrost/sofa2/build/external_directories/fetched/nfd-temp/nfd-prefix/src/nfd-stamp/nfd-mkdir.rule
+/home/defrost/sofa2/build/external_directories/fetched/nfd-temp/nfd-prefix/src/nfd-stamp/nfd-patch.rule
+/home/defrost/sofa2/build/external_directories/fetched/nfd-temp/nfd-prefix/src/nfd-stamp/nfd-test.rule
+/home/defrost/sofa2/build/external_directories/fetched/nfd-temp/nfd-prefix/src/nfd-stamp/nfd-update.rule

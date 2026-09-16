@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SoftRobots.Inverse-temp/CMakeFiles/SoftRobots.Inverse"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SoftRobots.Inverse-temp/CMakeFiles/SoftRobots.Inverse.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SoftRobots.Inverse-temp/CMakeFiles/SoftRobots.Inverse-complete.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SoftRobots.Inverse-temp/SoftRobots.Inverse-prefix/src/SoftRobots.Inverse-stamp/SoftRobots.Inverse-build.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SoftRobots.Inverse-temp/SoftRobots.Inverse-prefix/src/SoftRobots.Inverse-stamp/SoftRobots.Inverse-configure.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SoftRobots.Inverse-temp/SoftRobots.Inverse-prefix/src/SoftRobots.Inverse-stamp/SoftRobots.Inverse-download.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SoftRobots.Inverse-temp/SoftRobots.Inverse-prefix/src/SoftRobots.Inverse-stamp/SoftRobots.Inverse-install.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SoftRobots.Inverse-temp/SoftRobots.Inverse-prefix/src/SoftRobots.Inverse-stamp/SoftRobots.Inverse-mkdir.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SoftRobots.Inverse-temp/SoftRobots.Inverse-prefix/src/SoftRobots.Inverse-stamp/SoftRobots.Inverse-patch.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SoftRobots.Inverse-temp/SoftRobots.Inverse-prefix/src/SoftRobots.Inverse-stamp/SoftRobots.Inverse-test.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SoftRobots.Inverse-temp/SoftRobots.Inverse-prefix/src/SoftRobots.Inverse-stamp/SoftRobots.Inverse-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"SoftRobots.Inverse"
+		],
+		"name" : "SoftRobots.Inverse"
+	}
+}

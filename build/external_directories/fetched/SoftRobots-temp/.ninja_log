@@ -1,0 +1,21 @@
+# ninja log v5
+1	21	1779349758819209573	SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-mkdir	d8db4e556ab49d5d
+1	21	1779349758819209573	/home/defrost/sofa2/build/external_directories/fetched/SoftRobots-temp/SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-mkdir	d8db4e556ab49d5d
+21	2654	1779349761452321009	SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-download	be03ddc4eb297976
+21	2654	1779349761452321009	/home/defrost/sofa2/build/external_directories/fetched/SoftRobots-temp/SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-download	be03ddc4eb297976
+2654	3604	0	SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-update	db13618dadcfa458
+2654	3604	0	/home/defrost/sofa2/build/external_directories/fetched/SoftRobots-temp/SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-update	db13618dadcfa458
+3604	3622	1779349762420361891	SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-patch	c453bac30ffcfe9d
+3604	3622	1779349762420361891	/home/defrost/sofa2/build/external_directories/fetched/SoftRobots-temp/SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-patch	c453bac30ffcfe9d
+3622	3641	1779349762439362693	SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-configure	52db0af090fea4ee
+3622	3641	1779349762439362693	/home/defrost/sofa2/build/external_directories/fetched/SoftRobots-temp/SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-configure	52db0af090fea4ee
+3641	3660	1779349762459363537	SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-build	a0fa5a0045cb722a
+3641	3660	1779349762459363537	/home/defrost/sofa2/build/external_directories/fetched/SoftRobots-temp/SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-build	a0fa5a0045cb722a
+3660	3681	1779349762480364423	SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-install	af3c03353202d5dd
+3660	3681	1779349762480364423	/home/defrost/sofa2/build/external_directories/fetched/SoftRobots-temp/SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-install	af3c03353202d5dd
+3681	3702	1779349762500365267	SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-test	7327c4e48f78a4dc
+3681	3702	1779349762500365267	/home/defrost/sofa2/build/external_directories/fetched/SoftRobots-temp/SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-test	7327c4e48f78a4dc
+3702	3733	1779349762532366618	CMakeFiles/SoftRobots-complete	6de6d14012fd623a
+3702	3733	1779349762532366618	SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-done	6de6d14012fd623a
+3702	3733	1779349762532366618	/home/defrost/sofa2/build/external_directories/fetched/SoftRobots-temp/CMakeFiles/SoftRobots-complete	6de6d14012fd623a
+3702	3733	1779349762532366618	/home/defrost/sofa2/build/external_directories/fetched/SoftRobots-temp/SoftRobots-prefix/src/SoftRobots-stamp/SoftRobots-done	6de6d14012fd623a

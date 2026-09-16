@@ -1,0 +1,14 @@
+# Target labels
+ Cosserat
+# Source files and their labels
+/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/CMakeFiles/Cosserat
+/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/CMakeFiles/Cosserat.rule
+/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/CMakeFiles/Cosserat-complete.rule
+/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/Cosserat-prefix/src/Cosserat-stamp/Cosserat-build.rule
+/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/Cosserat-prefix/src/Cosserat-stamp/Cosserat-configure.rule
+/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/Cosserat-prefix/src/Cosserat-stamp/Cosserat-download.rule
+/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/Cosserat-prefix/src/Cosserat-stamp/Cosserat-install.rule
+/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/Cosserat-prefix/src/Cosserat-stamp/Cosserat-mkdir.rule
+/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/Cosserat-prefix/src/Cosserat-stamp/Cosserat-patch.rule
+/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/Cosserat-prefix/src/Cosserat-stamp/Cosserat-test.rule
+/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/Cosserat-prefix/src/Cosserat-stamp/Cosserat-update.rule

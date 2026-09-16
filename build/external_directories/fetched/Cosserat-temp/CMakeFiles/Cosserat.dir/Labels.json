@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/CMakeFiles/Cosserat"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/CMakeFiles/Cosserat.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/CMakeFiles/Cosserat-complete.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/Cosserat-prefix/src/Cosserat-stamp/Cosserat-build.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/Cosserat-prefix/src/Cosserat-stamp/Cosserat-configure.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/Cosserat-prefix/src/Cosserat-stamp/Cosserat-download.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/Cosserat-prefix/src/Cosserat-stamp/Cosserat-install.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/Cosserat-prefix/src/Cosserat-stamp/Cosserat-mkdir.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/Cosserat-prefix/src/Cosserat-stamp/Cosserat-patch.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/Cosserat-prefix/src/Cosserat-stamp/Cosserat-test.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/Cosserat-prefix/src/Cosserat-stamp/Cosserat-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Cosserat"
+		],
+		"name" : "Cosserat"
+	}
+}

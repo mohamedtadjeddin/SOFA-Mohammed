@@ -1,0 +1,21 @@
+# ninja log v5
+1	20	1779350384685622258	Cosserat-prefix/src/Cosserat-stamp/Cosserat-mkdir	364bf6bb06bda718
+1	20	1779350384685622258	/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/Cosserat-prefix/src/Cosserat-stamp/Cosserat-mkdir	364bf6bb06bda718
+20	4001	1779350388666743546	Cosserat-prefix/src/Cosserat-stamp/Cosserat-download	629ffb9245d26ca6
+20	4001	1779350388666743546	/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/Cosserat-prefix/src/Cosserat-stamp/Cosserat-download	629ffb9245d26ca6
+4001	4728	0	Cosserat-prefix/src/Cosserat-stamp/Cosserat-update	3ae56f01578bad6f
+4001	4728	0	/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/Cosserat-prefix/src/Cosserat-stamp/Cosserat-update	3ae56f01578bad6f
+4728	4746	1779350389410766206	Cosserat-prefix/src/Cosserat-stamp/Cosserat-patch	92301d021f49811e
+4728	4746	1779350389410766206	/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/Cosserat-prefix/src/Cosserat-stamp/Cosserat-patch	92301d021f49811e
+4746	4765	1779350389429766784	Cosserat-prefix/src/Cosserat-stamp/Cosserat-configure	615570a3ce0f4c0a
+4746	4765	1779350389429766784	/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/Cosserat-prefix/src/Cosserat-stamp/Cosserat-configure	615570a3ce0f4c0a
+4765	4784	1779350389448767363	Cosserat-prefix/src/Cosserat-stamp/Cosserat-build	aa3488e3878543ba
+4765	4784	1779350389448767363	/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/Cosserat-prefix/src/Cosserat-stamp/Cosserat-build	aa3488e3878543ba
+4784	4804	1779350389468767972	Cosserat-prefix/src/Cosserat-stamp/Cosserat-install	8b4d161880124f1f
+4784	4804	1779350389468767972	/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/Cosserat-prefix/src/Cosserat-stamp/Cosserat-install	8b4d161880124f1f
+4804	4822	1779350389487768551	Cosserat-prefix/src/Cosserat-stamp/Cosserat-test	fb96d9d5630a51e
+4804	4822	1779350389487768551	/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/Cosserat-prefix/src/Cosserat-stamp/Cosserat-test	fb96d9d5630a51e
+4822	4850	1779350389515769404	CMakeFiles/Cosserat-complete	c76412fc8900f967
+4822	4850	1779350389515769404	Cosserat-prefix/src/Cosserat-stamp/Cosserat-done	c76412fc8900f967
+4822	4850	1779350389515769404	/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/CMakeFiles/Cosserat-complete	c76412fc8900f967
+4822	4850	1779350389515769404	/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/Cosserat-prefix/src/Cosserat-stamp/Cosserat-done	c76412fc8900f967

@@ -1,0 +1,1511 @@
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- The C compiler identification is Clang 20.1.2
+-- The CXX compiler identification is Clang 20.1.2
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/clang-20 - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/clang++-20 - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (1.5s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/9] Creating directories for 'imgui'
+[2/9] Performing download step (git clone) for 'imgui'
+FAILED: imgui-prefix/src/imgui-stamp/imgui-download /home/defrost/sofa2/build/external_directories/fetched/imgui-temp/imgui-prefix/src/imgui-stamp/imgui-download 
+cd /home/defrost/sofa2/build/external_directories/fetched && /usr/bin/cmake -P /home/defrost/sofa2/build/external_directories/fetched/imgui-temp/imgui-prefix/tmp/imgui-gitclone.cmake && /usr/bin/cmake -E touch /home/defrost/sofa2/build/external_directories/fetched/imgui-temp/imgui-prefix/src/imgui-stamp/imgui-download
+Cloning into 'imgui'...
+fatal: unable to access 'https://github.com/ocornut/imgui/': SSL: certificate subject name (portail.lille.inria.fr) does not match target host name 'github.com'
+Cloning into 'imgui'...
+fatal: unable to access 'https://github.com/ocornut/imgui/': SSL: certificate subject name (portail.lille.inria.fr) does not match target host name 'github.com'
+Cloning into 'imgui'...
+fatal: unable to access 'https://github.com/ocornut/imgui/': SSL: certificate subject name (portail.lille.inria.fr) does not match target host name 'github.com'
+-- Had to git clone more than once: 3 times.
+CMake Error at imgui-temp/imgui-prefix/tmp/imgui-gitclone.cmake:39 (message):
+  Failed to clone repository: 'https://github.com/ocornut/imgui'
+
+
+ninja: build stopped: subcommand failed.
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/8] Performing download step (git clone) for 'imgui'
+FAILED: imgui-prefix/src/imgui-stamp/imgui-download /home/defrost/sofa2/build/external_directories/fetched/imgui-temp/imgui-prefix/src/imgui-stamp/imgui-download 
+cd /home/defrost/sofa2/build/external_directories/fetched && /usr/bin/cmake -P /home/defrost/sofa2/build/external_directories/fetched/imgui-temp/imgui-prefix/tmp/imgui-gitclone.cmake && /usr/bin/cmake -E touch /home/defrost/sofa2/build/external_directories/fetched/imgui-temp/imgui-prefix/src/imgui-stamp/imgui-download
+Cloning into 'imgui'...
+fatal: unable to access 'https://github.com/ocornut/imgui/': SSL: certificate subject name (portail.lille.inria.fr) does not match target host name 'github.com'
+Cloning into 'imgui'...
+fatal: unable to access 'https://github.com/ocornut/imgui/': SSL: certificate subject name (portail.lille.inria.fr) does not match target host name 'github.com'
+Cloning into 'imgui'...
+fatal: unable to access 'https://github.com/ocornut/imgui/': SSL: certificate subject name (portail.lille.inria.fr) does not match target host name 'github.com'
+-- Had to git clone more than once: 3 times.
+CMake Error at imgui-temp/imgui-prefix/tmp/imgui-gitclone.cmake:39 (message):
+  Failed to clone repository: 'https://github.com/ocornut/imgui'
+
+
+ninja: build stopped: subcommand failed.
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/8] Performing download step (git clone) for 'imgui'
+Cloning into 'imgui'...
+HEAD is now at 11b3a7c8c Merge branch 'master' into docking
+[2/8] Performing update step for 'imgui'
+[3/8] No patch step for 'imgui'
+[4/8] No configure step for 'imgui'
+[5/8] No build step for 'imgui'
+[6/8] No install step for 'imgui'
+[7/8] No test step for 'imgui'
+[8/8] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'
+CMake Warning (dev) in CMakeLists.txt:
+  No project() command is present.  The top-level CMakeLists.txt file must
+  contain a literal, direct call to the project() command.  Add a line of
+  code such as
+
+    project(ProjectName)
+
+  near the top of the file, but after cmake_minimum_required().
+
+  CMake is pretending there is a "project(Project)" command on the first
+  line.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  cmake_minimum_required() should be called prior to this top-level project()
+  call.  Please see the cmake-commands(7) manual for usage documentation of
+  both commands.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/defrost/sofa2/build/external_directories/fetched/imgui-temp
+[1/7] Performing update step for 'imgui'
+[2/7] No patch step for 'imgui'
+[3/7] No configure step for 'imgui'
+[4/7] No build step for 'imgui'
+[5/7] No install step for 'imgui'
+[6/7] No test step for 'imgui'
+[7/7] Completed 'imgui'

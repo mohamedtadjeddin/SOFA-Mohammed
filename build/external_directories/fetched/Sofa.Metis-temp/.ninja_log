@@ -1,0 +1,21 @@
+# ninja log v5
+4	64	1779275392417476788	Sofa.Metis-prefix/src/Sofa.Metis-stamp/Sofa.Metis-mkdir	81493938ec91e0e6
+4	64	1779275392417476788	/home/defrost/sofa2/build/external_directories/fetched/Sofa.Metis-temp/Sofa.Metis-prefix/src/Sofa.Metis-stamp/Sofa.Metis-mkdir	81493938ec91e0e6
+64	1194	1779275393547527499	Sofa.Metis-prefix/src/Sofa.Metis-stamp/Sofa.Metis-download	5b9ef8fea6fe40c5
+64	1194	1779275393547527499	/home/defrost/sofa2/build/external_directories/fetched/Sofa.Metis-temp/Sofa.Metis-prefix/src/Sofa.Metis-stamp/Sofa.Metis-download	5b9ef8fea6fe40c5
+1194	2048	0	Sofa.Metis-prefix/src/Sofa.Metis-stamp/Sofa.Metis-update	4ba982b76bd0aff8
+1194	2048	0	/home/defrost/sofa2/build/external_directories/fetched/Sofa.Metis-temp/Sofa.Metis-prefix/src/Sofa.Metis-stamp/Sofa.Metis-update	4ba982b76bd0aff8
+2048	2102	1779275394455568252	Sofa.Metis-prefix/src/Sofa.Metis-stamp/Sofa.Metis-patch	ef64326df460d8fe
+2048	2102	1779275394455568252	/home/defrost/sofa2/build/external_directories/fetched/Sofa.Metis-temp/Sofa.Metis-prefix/src/Sofa.Metis-stamp/Sofa.Metis-patch	ef64326df460d8fe
+2103	2157	1779275394510570720	Sofa.Metis-prefix/src/Sofa.Metis-stamp/Sofa.Metis-configure	85afe716e3d846da
+2103	2157	1779275394510570720	/home/defrost/sofa2/build/external_directories/fetched/Sofa.Metis-temp/Sofa.Metis-prefix/src/Sofa.Metis-stamp/Sofa.Metis-configure	85afe716e3d846da
+2157	2212	1779275394564573144	Sofa.Metis-prefix/src/Sofa.Metis-stamp/Sofa.Metis-build	86059567b6ad499b
+2157	2212	1779275394564573144	/home/defrost/sofa2/build/external_directories/fetched/Sofa.Metis-temp/Sofa.Metis-prefix/src/Sofa.Metis-stamp/Sofa.Metis-build	86059567b6ad499b
+2212	2266	1779275394618575567	Sofa.Metis-prefix/src/Sofa.Metis-stamp/Sofa.Metis-install	2cda00cb6b944f49
+2212	2266	1779275394618575567	/home/defrost/sofa2/build/external_directories/fetched/Sofa.Metis-temp/Sofa.Metis-prefix/src/Sofa.Metis-stamp/Sofa.Metis-install	2cda00cb6b944f49
+2266	2322	1779275394675578126	Sofa.Metis-prefix/src/Sofa.Metis-stamp/Sofa.Metis-test	e104618061b0a279
+2266	2322	1779275394675578126	/home/defrost/sofa2/build/external_directories/fetched/Sofa.Metis-temp/Sofa.Metis-prefix/src/Sofa.Metis-stamp/Sofa.Metis-test	e104618061b0a279
+2322	2403	1779275394756581761	CMakeFiles/Sofa.Metis-complete	67c7e6ff86022ac
+2322	2403	1779275394756581761	Sofa.Metis-prefix/src/Sofa.Metis-stamp/Sofa.Metis-done	67c7e6ff86022ac
+2322	2403	1779275394756581761	/home/defrost/sofa2/build/external_directories/fetched/Sofa.Metis-temp/CMakeFiles/Sofa.Metis-complete	67c7e6ff86022ac
+2322	2403	1779275394756581761	/home/defrost/sofa2/build/external_directories/fetched/Sofa.Metis-temp/Sofa.Metis-prefix/src/Sofa.Metis-stamp/Sofa.Metis-done	67c7e6ff86022ac

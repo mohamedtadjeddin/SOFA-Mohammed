@@ -1,0 +1,14 @@
+# Target labels
+ imgui
+# Source files and their labels
+/home/defrost/sofa2/build/external_directories/fetched/imgui-temp/CMakeFiles/imgui
+/home/defrost/sofa2/build/external_directories/fetched/imgui-temp/CMakeFiles/imgui.rule
+/home/defrost/sofa2/build/external_directories/fetched/imgui-temp/CMakeFiles/imgui-complete.rule
+/home/defrost/sofa2/build/external_directories/fetched/imgui-temp/imgui-prefix/src/imgui-stamp/imgui-build.rule
+/home/defrost/sofa2/build/external_directories/fetched/imgui-temp/imgui-prefix/src/imgui-stamp/imgui-configure.rule
+/home/defrost/sofa2/build/external_directories/fetched/imgui-temp/imgui-prefix/src/imgui-stamp/imgui-download.rule
+/home/defrost/sofa2/build/external_directories/fetched/imgui-temp/imgui-prefix/src/imgui-stamp/imgui-install.rule
+/home/defrost/sofa2/build/external_directories/fetched/imgui-temp/imgui-prefix/src/imgui-stamp/imgui-mkdir.rule
+/home/defrost/sofa2/build/external_directories/fetched/imgui-temp/imgui-prefix/src/imgui-stamp/imgui-patch.rule
+/home/defrost/sofa2/build/external_directories/fetched/imgui-temp/imgui-prefix/src/imgui-stamp/imgui-test.rule
+/home/defrost/sofa2/build/external_directories/fetched/imgui-temp/imgui-prefix/src/imgui-stamp/imgui-update.rule

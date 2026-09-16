@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/STLIB-temp/CMakeFiles/STLIB"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/STLIB-temp/CMakeFiles/STLIB.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/STLIB-temp/CMakeFiles/STLIB-complete.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/STLIB-temp/STLIB-prefix/src/STLIB-stamp/STLIB-build.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/STLIB-temp/STLIB-prefix/src/STLIB-stamp/STLIB-configure.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/STLIB-temp/STLIB-prefix/src/STLIB-stamp/STLIB-download.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/STLIB-temp/STLIB-prefix/src/STLIB-stamp/STLIB-install.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/STLIB-temp/STLIB-prefix/src/STLIB-stamp/STLIB-mkdir.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/STLIB-temp/STLIB-prefix/src/STLIB-stamp/STLIB-patch.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/STLIB-temp/STLIB-prefix/src/STLIB-stamp/STLIB-test.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/STLIB-temp/STLIB-prefix/src/STLIB-stamp/STLIB-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"STLIB"
+		],
+		"name" : "STLIB"
+	}
+}

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SofaPython3-temp/CMakeFiles/SofaPython3"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SofaPython3-temp/CMakeFiles/SofaPython3.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SofaPython3-temp/CMakeFiles/SofaPython3-complete.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SofaPython3-temp/SofaPython3-prefix/src/SofaPython3-stamp/SofaPython3-build.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SofaPython3-temp/SofaPython3-prefix/src/SofaPython3-stamp/SofaPython3-configure.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SofaPython3-temp/SofaPython3-prefix/src/SofaPython3-stamp/SofaPython3-download.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SofaPython3-temp/SofaPython3-prefix/src/SofaPython3-stamp/SofaPython3-install.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SofaPython3-temp/SofaPython3-prefix/src/SofaPython3-stamp/SofaPython3-mkdir.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SofaPython3-temp/SofaPython3-prefix/src/SofaPython3-stamp/SofaPython3-patch.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SofaPython3-temp/SofaPython3-prefix/src/SofaPython3-stamp/SofaPython3-test.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/SofaPython3-temp/SofaPython3-prefix/src/SofaPython3-stamp/SofaPython3-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"SofaPython3"
+		],
+		"name" : "SofaPython3"
+	}
+}

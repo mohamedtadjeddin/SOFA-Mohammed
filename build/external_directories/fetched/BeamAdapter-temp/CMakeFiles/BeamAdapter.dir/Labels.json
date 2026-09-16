@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/BeamAdapter-temp/CMakeFiles/BeamAdapter"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/BeamAdapter-temp/CMakeFiles/BeamAdapter.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/BeamAdapter-temp/CMakeFiles/BeamAdapter-complete.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/BeamAdapter-temp/BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-build.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/BeamAdapter-temp/BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-configure.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/BeamAdapter-temp/BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-download.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/BeamAdapter-temp/BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-install.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/BeamAdapter-temp/BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-mkdir.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/BeamAdapter-temp/BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-patch.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/BeamAdapter-temp/BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-test.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/BeamAdapter-temp/BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"BeamAdapter"
+		],
+		"name" : "BeamAdapter"
+	}
+}

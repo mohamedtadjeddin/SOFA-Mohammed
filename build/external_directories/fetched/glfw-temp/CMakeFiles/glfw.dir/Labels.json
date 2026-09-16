@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/glfw-temp/CMakeFiles/glfw"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/glfw-temp/CMakeFiles/glfw.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/glfw-temp/CMakeFiles/glfw-complete.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/glfw-temp/glfw-prefix/src/glfw-stamp/glfw-build.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/glfw-temp/glfw-prefix/src/glfw-stamp/glfw-configure.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/glfw-temp/glfw-prefix/src/glfw-stamp/glfw-download.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/glfw-temp/glfw-prefix/src/glfw-stamp/glfw-install.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/glfw-temp/glfw-prefix/src/glfw-stamp/glfw-mkdir.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/glfw-temp/glfw-prefix/src/glfw-stamp/glfw-patch.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/glfw-temp/glfw-prefix/src/glfw-stamp/glfw-test.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/glfw-temp/glfw-prefix/src/glfw-stamp/glfw-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glfw"
+		],
+		"name" : "glfw"
+	}
+}

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/metis-temp/CMakeFiles/metis"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/metis-temp/CMakeFiles/metis.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/metis-temp/CMakeFiles/metis-complete.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/metis-temp/metis-prefix/src/metis-stamp/metis-build.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/metis-temp/metis-prefix/src/metis-stamp/metis-configure.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/metis-temp/metis-prefix/src/metis-stamp/metis-download.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/metis-temp/metis-prefix/src/metis-stamp/metis-install.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/metis-temp/metis-prefix/src/metis-stamp/metis-mkdir.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/metis-temp/metis-prefix/src/metis-stamp/metis-patch.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/metis-temp/metis-prefix/src/metis-stamp/metis-test.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/metis-temp/metis-prefix/src/metis-stamp/metis-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"metis"
+		],
+		"name" : "metis"
+	}
+}

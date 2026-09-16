@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/simpleini-temp/CMakeFiles/simpleini"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/simpleini-temp/CMakeFiles/simpleini.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/simpleini-temp/CMakeFiles/simpleini-complete.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/simpleini-temp/simpleini-prefix/src/simpleini-stamp/simpleini-build.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/simpleini-temp/simpleini-prefix/src/simpleini-stamp/simpleini-configure.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/simpleini-temp/simpleini-prefix/src/simpleini-stamp/simpleini-download.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/simpleini-temp/simpleini-prefix/src/simpleini-stamp/simpleini-install.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/simpleini-temp/simpleini-prefix/src/simpleini-stamp/simpleini-mkdir.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/simpleini-temp/simpleini-prefix/src/simpleini-stamp/simpleini-patch.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/simpleini-temp/simpleini-prefix/src/simpleini-stamp/simpleini-test.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/simpleini-temp/simpleini-prefix/src/simpleini-stamp/simpleini-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"simpleini"
+		],
+		"name" : "simpleini"
+	}
+}

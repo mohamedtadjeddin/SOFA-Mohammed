@@ -1,0 +1,21 @@
+# ninja log v5
+3	54	1779456944694154686	BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-mkdir	a345a05219a19d6d
+3	54	1779456944694154686	/home/defrost/sofa2/build/external_directories/fetched/BeamAdapter-temp/BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-mkdir	a345a05219a19d6d
+54	11773	1779456956413386451	BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-download	cc4f66976748c909
+54	11773	1779456956413386451	/home/defrost/sofa2/build/external_directories/fetched/BeamAdapter-temp/BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-download	cc4f66976748c909
+11773	12991	0	BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-update	155ee37589a60da0
+11773	12991	0	/home/defrost/sofa2/build/external_directories/fetched/BeamAdapter-temp/BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-update	155ee37589a60da0
+12991	13045	1779456957685411450	BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-patch	f137af59af765eff
+12991	13045	1779456957685411450	/home/defrost/sofa2/build/external_directories/fetched/BeamAdapter-temp/BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-patch	f137af59af765eff
+13045	13099	1779456957739412510	BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-configure	aef7002857164c1a
+13045	13099	1779456957739412510	/home/defrost/sofa2/build/external_directories/fetched/BeamAdapter-temp/BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-configure	aef7002857164c1a
+13099	13153	1779456957793413571	BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-build	14734479ca45ad16
+13099	13153	1779456957793413571	/home/defrost/sofa2/build/external_directories/fetched/BeamAdapter-temp/BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-build	14734479ca45ad16
+13153	13207	1779456957847414632	BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-install	df415285ab2795cf
+13153	13207	1779456957847414632	/home/defrost/sofa2/build/external_directories/fetched/BeamAdapter-temp/BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-install	df415285ab2795cf
+13207	13261	1779456957901415693	BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-test	20610a72c6782c7a
+13207	13261	1779456957901415693	/home/defrost/sofa2/build/external_directories/fetched/BeamAdapter-temp/BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-test	20610a72c6782c7a
+13262	13341	1779456957981417264	CMakeFiles/BeamAdapter-complete	d6ff347e6ed15cbb
+13262	13341	1779456957981417264	BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-done	d6ff347e6ed15cbb
+13262	13341	1779456957981417264	/home/defrost/sofa2/build/external_directories/fetched/BeamAdapter-temp/CMakeFiles/BeamAdapter-complete	d6ff347e6ed15cbb
+13262	13341	1779456957981417264	/home/defrost/sofa2/build/external_directories/fetched/BeamAdapter-temp/BeamAdapter-prefix/src/BeamAdapter-stamp/BeamAdapter-done	d6ff347e6ed15cbb

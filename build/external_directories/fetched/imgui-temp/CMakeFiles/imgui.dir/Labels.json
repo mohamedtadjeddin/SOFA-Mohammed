@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/imgui-temp/CMakeFiles/imgui"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/imgui-temp/CMakeFiles/imgui.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/imgui-temp/CMakeFiles/imgui-complete.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/imgui-temp/imgui-prefix/src/imgui-stamp/imgui-build.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/imgui-temp/imgui-prefix/src/imgui-stamp/imgui-configure.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/imgui-temp/imgui-prefix/src/imgui-stamp/imgui-download.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/imgui-temp/imgui-prefix/src/imgui-stamp/imgui-install.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/imgui-temp/imgui-prefix/src/imgui-stamp/imgui-mkdir.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/imgui-temp/imgui-prefix/src/imgui-stamp/imgui-patch.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/imgui-temp/imgui-prefix/src/imgui-stamp/imgui-test.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/imgui-temp/imgui-prefix/src/imgui-stamp/imgui-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"imgui"
+		],
+		"name" : "imgui"
+	}
+}

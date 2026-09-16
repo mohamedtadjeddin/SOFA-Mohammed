@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/ImPlot-temp/CMakeFiles/ImPlot"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/ImPlot-temp/CMakeFiles/ImPlot.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/ImPlot-temp/CMakeFiles/ImPlot-complete.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/ImPlot-temp/ImPlot-prefix/src/ImPlot-stamp/ImPlot-build.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/ImPlot-temp/ImPlot-prefix/src/ImPlot-stamp/ImPlot-configure.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/ImPlot-temp/ImPlot-prefix/src/ImPlot-stamp/ImPlot-download.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/ImPlot-temp/ImPlot-prefix/src/ImPlot-stamp/ImPlot-install.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/ImPlot-temp/ImPlot-prefix/src/ImPlot-stamp/ImPlot-mkdir.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/ImPlot-temp/ImPlot-prefix/src/ImPlot-stamp/ImPlot-patch.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/ImPlot-temp/ImPlot-prefix/src/ImPlot-stamp/ImPlot-test.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/ImPlot-temp/ImPlot-prefix/src/ImPlot-stamp/ImPlot-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ImPlot"
+		],
+		"name" : "ImPlot"
+	}
+}

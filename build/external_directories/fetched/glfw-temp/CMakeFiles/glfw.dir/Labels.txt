@@ -1,0 +1,14 @@
+# Target labels
+ glfw
+# Source files and their labels
+/home/defrost/sofa2/build/external_directories/fetched/glfw-temp/CMakeFiles/glfw
+/home/defrost/sofa2/build/external_directories/fetched/glfw-temp/CMakeFiles/glfw.rule
+/home/defrost/sofa2/build/external_directories/fetched/glfw-temp/CMakeFiles/glfw-complete.rule
+/home/defrost/sofa2/build/external_directories/fetched/glfw-temp/glfw-prefix/src/glfw-stamp/glfw-build.rule
+/home/defrost/sofa2/build/external_directories/fetched/glfw-temp/glfw-prefix/src/glfw-stamp/glfw-configure.rule
+/home/defrost/sofa2/build/external_directories/fetched/glfw-temp/glfw-prefix/src/glfw-stamp/glfw-download.rule
+/home/defrost/sofa2/build/external_directories/fetched/glfw-temp/glfw-prefix/src/glfw-stamp/glfw-install.rule
+/home/defrost/sofa2/build/external_directories/fetched/glfw-temp/glfw-prefix/src/glfw-stamp/glfw-mkdir.rule
+/home/defrost/sofa2/build/external_directories/fetched/glfw-temp/glfw-prefix/src/glfw-stamp/glfw-patch.rule
+/home/defrost/sofa2/build/external_directories/fetched/glfw-temp/glfw-prefix/src/glfw-stamp/glfw-test.rule
+/home/defrost/sofa2/build/external_directories/fetched/glfw-temp/glfw-prefix/src/glfw-stamp/glfw-update.rule

@@ -1,0 +1,3 @@
+/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/CMakeFiles/Cosserat.dir
+/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/CMakeFiles/edit_cache.dir
+/home/defrost/sofa2/build/external_directories/fetched/Cosserat-temp/CMakeFiles/rebuild_cache.dir

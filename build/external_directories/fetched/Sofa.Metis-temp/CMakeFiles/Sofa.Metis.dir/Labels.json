@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/Sofa.Metis-temp/CMakeFiles/Sofa.Metis"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/Sofa.Metis-temp/CMakeFiles/Sofa.Metis.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/Sofa.Metis-temp/CMakeFiles/Sofa.Metis-complete.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/Sofa.Metis-temp/Sofa.Metis-prefix/src/Sofa.Metis-stamp/Sofa.Metis-build.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/Sofa.Metis-temp/Sofa.Metis-prefix/src/Sofa.Metis-stamp/Sofa.Metis-configure.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/Sofa.Metis-temp/Sofa.Metis-prefix/src/Sofa.Metis-stamp/Sofa.Metis-download.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/Sofa.Metis-temp/Sofa.Metis-prefix/src/Sofa.Metis-stamp/Sofa.Metis-install.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/Sofa.Metis-temp/Sofa.Metis-prefix/src/Sofa.Metis-stamp/Sofa.Metis-mkdir.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/Sofa.Metis-temp/Sofa.Metis-prefix/src/Sofa.Metis-stamp/Sofa.Metis-patch.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/Sofa.Metis-temp/Sofa.Metis-prefix/src/Sofa.Metis-stamp/Sofa.Metis-test.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/Sofa.Metis-temp/Sofa.Metis-prefix/src/Sofa.Metis-stamp/Sofa.Metis-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Sofa.Metis"
+		],
+		"name" : "Sofa.Metis"
+	}
+}

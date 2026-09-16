@@ -1,0 +1,21 @@
+# ninja log v5
+1	21	1779276203372287240	STLIB-prefix/src/STLIB-stamp/STLIB-mkdir	b5bebc6423421c2e
+1	21	1779276203372287240	/home/defrost/sofa2/build/external_directories/fetched/STLIB-temp/STLIB-prefix/src/STLIB-stamp/STLIB-mkdir	b5bebc6423421c2e
+22	1338	1779276204688346715	STLIB-prefix/src/STLIB-stamp/STLIB-download	79122aeca59a2ea9
+22	1338	1779276204688346715	/home/defrost/sofa2/build/external_directories/fetched/STLIB-temp/STLIB-prefix/src/STLIB-stamp/STLIB-download	79122aeca59a2ea9
+1338	2186	0	STLIB-prefix/src/STLIB-stamp/STLIB-update	524bd84f03e6218e
+1338	2186	0	/home/defrost/sofa2/build/external_directories/fetched/STLIB-temp/STLIB-prefix/src/STLIB-stamp/STLIB-update	524bd84f03e6218e
+2187	2240	1779276205589387436	STLIB-prefix/src/STLIB-stamp/STLIB-patch	b4191b3bbd836ab1
+2187	2240	1779276205589387436	/home/defrost/sofa2/build/external_directories/fetched/STLIB-temp/STLIB-prefix/src/STLIB-stamp/STLIB-patch	b4191b3bbd836ab1
+2240	2294	1779276205643389876	STLIB-prefix/src/STLIB-stamp/STLIB-configure	938bfafc660207ea
+2240	2294	1779276205643389876	/home/defrost/sofa2/build/external_directories/fetched/STLIB-temp/STLIB-prefix/src/STLIB-stamp/STLIB-configure	938bfafc660207ea
+2294	2348	1779276205697392317	STLIB-prefix/src/STLIB-stamp/STLIB-build	6163130a656a041e
+2294	2348	1779276205697392317	/home/defrost/sofa2/build/external_directories/fetched/STLIB-temp/STLIB-prefix/src/STLIB-stamp/STLIB-build	6163130a656a041e
+2348	2402	1779276205750394712	STLIB-prefix/src/STLIB-stamp/STLIB-install	c7e6d1c5f9447fba
+2348	2402	1779276205750394712	/home/defrost/sofa2/build/external_directories/fetched/STLIB-temp/STLIB-prefix/src/STLIB-stamp/STLIB-install	c7e6d1c5f9447fba
+2402	2456	1779276205805397198	STLIB-prefix/src/STLIB-stamp/STLIB-test	dcbd5c262cf9c46b
+2402	2456	1779276205805397198	/home/defrost/sofa2/build/external_directories/fetched/STLIB-temp/STLIB-prefix/src/STLIB-stamp/STLIB-test	dcbd5c262cf9c46b
+2456	2536	1779276205884400769	CMakeFiles/STLIB-complete	18c93cc80445ddf3
+2456	2536	1779276205884400769	STLIB-prefix/src/STLIB-stamp/STLIB-done	18c93cc80445ddf3
+2456	2536	1779276205884400769	/home/defrost/sofa2/build/external_directories/fetched/STLIB-temp/CMakeFiles/STLIB-complete	18c93cc80445ddf3
+2456	2536	1779276205884400769	/home/defrost/sofa2/build/external_directories/fetched/STLIB-temp/STLIB-prefix/src/STLIB-stamp/STLIB-done	18c93cc80445ddf3

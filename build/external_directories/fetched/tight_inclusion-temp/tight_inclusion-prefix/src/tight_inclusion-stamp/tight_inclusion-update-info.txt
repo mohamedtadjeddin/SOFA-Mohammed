@@ -1,0 +1,7 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The patch step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+command (connected)=/usr/bin/cmake;-Dcan_fetch=YES;-P;/home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake
+command (disconnected)=/usr/bin/cmake;-Dcan_fetch=NO;-P;/home/defrost/sofa2/build/external_directories/fetched/tight_inclusion-temp/tight_inclusion-prefix/tmp/tight_inclusion-gitupdate.cmake
+work_dir=/home/defrost/sofa2/build/external_directories/fetched/tight_inclusion

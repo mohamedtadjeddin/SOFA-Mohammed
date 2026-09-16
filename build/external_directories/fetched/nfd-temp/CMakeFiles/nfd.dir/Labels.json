@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/nfd-temp/CMakeFiles/nfd"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/nfd-temp/CMakeFiles/nfd.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/nfd-temp/CMakeFiles/nfd-complete.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/nfd-temp/nfd-prefix/src/nfd-stamp/nfd-build.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/nfd-temp/nfd-prefix/src/nfd-stamp/nfd-configure.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/nfd-temp/nfd-prefix/src/nfd-stamp/nfd-download.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/nfd-temp/nfd-prefix/src/nfd-stamp/nfd-install.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/nfd-temp/nfd-prefix/src/nfd-stamp/nfd-mkdir.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/nfd-temp/nfd-prefix/src/nfd-stamp/nfd-patch.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/nfd-temp/nfd-prefix/src/nfd-stamp/nfd-test.rule"
+		},
+		{
+			"file" : "/home/defrost/sofa2/build/external_directories/fetched/nfd-temp/nfd-prefix/src/nfd-stamp/nfd-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"nfd"
+		],
+		"name" : "nfd"
+	}
+}

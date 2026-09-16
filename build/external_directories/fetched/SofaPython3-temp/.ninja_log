@@ -1,0 +1,21 @@
+# ninja log v5
+2	22	1779275598477790087	SofaPython3-prefix/src/SofaPython3-stamp/SofaPython3-mkdir	8c72c5a46008bfc7
+2	22	1779275598477790087	/home/defrost/sofa2/build/external_directories/fetched/SofaPython3-temp/SofaPython3-prefix/src/SofaPython3-stamp/SofaPython3-mkdir	8c72c5a46008bfc7
+22	2848	1779275601302918482	SofaPython3-prefix/src/SofaPython3-stamp/SofaPython3-download	76222e53fa90a714
+22	2848	1779275601302918482	/home/defrost/sofa2/build/external_directories/fetched/SofaPython3-temp/SofaPython3-prefix/src/SofaPython3-stamp/SofaPython3-download	76222e53fa90a714
+2848	3837	0	SofaPython3-prefix/src/SofaPython3-stamp/SofaPython3-update	ccf8a13a5bbf6aa3
+2848	3837	0	/home/defrost/sofa2/build/external_directories/fetched/SofaPython3-temp/SofaPython3-prefix/src/SofaPython3-stamp/SofaPython3-update	ccf8a13a5bbf6aa3
+3837	3856	1779275602311964344	SofaPython3-prefix/src/SofaPython3-stamp/SofaPython3-patch	8491240d94d35e4e
+3837	3856	1779275602311964344	/home/defrost/sofa2/build/external_directories/fetched/SofaPython3-temp/SofaPython3-prefix/src/SofaPython3-stamp/SofaPython3-patch	8491240d94d35e4e
+3856	3881	1779275602335965435	SofaPython3-prefix/src/SofaPython3-stamp/SofaPython3-configure	47e11c092b95fa5f
+3856	3881	1779275602335965435	/home/defrost/sofa2/build/external_directories/fetched/SofaPython3-temp/SofaPython3-prefix/src/SofaPython3-stamp/SofaPython3-configure	47e11c092b95fa5f
+3881	3921	1779275602373967162	SofaPython3-prefix/src/SofaPython3-stamp/SofaPython3-build	5985db14de4ec4a6
+3881	3921	1779275602373967162	/home/defrost/sofa2/build/external_directories/fetched/SofaPython3-temp/SofaPython3-prefix/src/SofaPython3-stamp/SofaPython3-build	5985db14de4ec4a6
+3921	3975	1779275602428969662	SofaPython3-prefix/src/SofaPython3-stamp/SofaPython3-install	b0b93c2c7307bd82
+3921	3975	1779275602428969662	/home/defrost/sofa2/build/external_directories/fetched/SofaPython3-temp/SofaPython3-prefix/src/SofaPython3-stamp/SofaPython3-install	b0b93c2c7307bd82
+3975	4030	1779275602482972117	SofaPython3-prefix/src/SofaPython3-stamp/SofaPython3-test	552f7a6b87cc2850
+3975	4030	1779275602482972117	/home/defrost/sofa2/build/external_directories/fetched/SofaPython3-temp/SofaPython3-prefix/src/SofaPython3-stamp/SofaPython3-test	552f7a6b87cc2850
+4030	4109	1779275602562975753	CMakeFiles/SofaPython3-complete	4252d8e49900d60c
+4030	4109	1779275602562975753	SofaPython3-prefix/src/SofaPython3-stamp/SofaPython3-done	4252d8e49900d60c
+4030	4109	1779275602562975753	/home/defrost/sofa2/build/external_directories/fetched/SofaPython3-temp/CMakeFiles/SofaPython3-complete	4252d8e49900d60c
+4030	4109	1779275602562975753	/home/defrost/sofa2/build/external_directories/fetched/SofaPython3-temp/SofaPython3-prefix/src/SofaPython3-stamp/SofaPython3-done	4252d8e49900d60c

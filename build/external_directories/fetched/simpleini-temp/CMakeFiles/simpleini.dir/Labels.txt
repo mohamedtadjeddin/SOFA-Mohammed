@@ -1,0 +1,14 @@
+# Target labels
+ simpleini
+# Source files and their labels
+/home/defrost/sofa2/build/external_directories/fetched/simpleini-temp/CMakeFiles/simpleini
+/home/defrost/sofa2/build/external_directories/fetched/simpleini-temp/CMakeFiles/simpleini.rule
+/home/defrost/sofa2/build/external_directories/fetched/simpleini-temp/CMakeFiles/simpleini-complete.rule
+/home/defrost/sofa2/build/external_directories/fetched/simpleini-temp/simpleini-prefix/src/simpleini-stamp/simpleini-build.rule
+/home/defrost/sofa2/build/external_directories/fetched/simpleini-temp/simpleini-prefix/src/simpleini-stamp/simpleini-configure.rule
+/home/defrost/sofa2/build/external_directories/fetched/simpleini-temp/simpleini-prefix/src/simpleini-stamp/simpleini-download.rule
+/home/defrost/sofa2/build/external_directories/fetched/simpleini-temp/simpleini-prefix/src/simpleini-stamp/simpleini-install.rule
+/home/defrost/sofa2/build/external_directories/fetched/simpleini-temp/simpleini-prefix/src/simpleini-stamp/simpleini-mkdir.rule
+/home/defrost/sofa2/build/external_directories/fetched/simpleini-temp/simpleini-prefix/src/simpleini-stamp/simpleini-patch.rule
+/home/defrost/sofa2/build/external_directories/fetched/simpleini-temp/simpleini-prefix/src/simpleini-stamp/simpleini-test.rule
+/home/defrost/sofa2/build/external_directories/fetched/simpleini-temp/simpleini-prefix/src/simpleini-stamp/simpleini-update.rule
