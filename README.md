@@ -19,3 +19,13 @@ the code files in the build folder :
       2- plot-single1.py : to plot the sensitivity of the beam or the arch test, in this case the plot is not log (meant for when we changed the study from sensitivity = 1/(min_sing)^2 to sensitivity = min_sing)
       3- plot-single2.py : same as before but log ((meant for the study of sensitivity = 1/(min_sing)^2
       4- calculate-arch-pcr.py : code contains the different formulas used to calculate the buckling load of an arch
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Before launching any simulation you have to delete the thre csv files in the build folder 
+svd_sigma_max.csv : contains the smallest eigen values of the effective stiffness of each step
+result.csv : contains the index of the converged steps (we use it to filter the plot so we can only plot the values from svd_sigma_max.csv at the steps that converged
+tip_y.csv : a file i used in the parallel robot when i tested the robot going in one direction and i saved in it the current coordinate of that direction
