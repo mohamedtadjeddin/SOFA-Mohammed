@@ -1,5 +1,5 @@
 This version of sofa framework, we added some changes in the beamAdapter plugin, we added geometric stiffess matrices (AdaptiveBeamForceFieldAndMass.h and AdaptiveBeamForceFieldAndMass.inl). 
-We also added some lines of code for the SpraseLDLT solver to either do an eigen decomposition to the effective stiffness matrix and save the smallest eigen value to an external csv file, 
+We also added some lines of code for the SparseLDLSolver.inl solver to either do an eigen decomposition to the effective stiffness matrix and save the smallest eigen value to an external csv file, 
 or find the smallest value of the D matrix in the LDLt decomposition and save it to an external csv file
 //////////////////////////////////////////////////////////////////////////////////////////////////
 
